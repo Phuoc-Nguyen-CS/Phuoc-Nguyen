@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpaceGeese
+- 👋 Hi, I’m @Phuoc-Nguyen-CS
 - 👀 I’m interested in anything Computer Science
 - 🌱 I’m currently learning 
 - 📫 How to reach me :
